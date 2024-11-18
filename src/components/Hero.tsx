@@ -7,10 +7,10 @@ export default function Hero() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <h1 className="text-4xl md:text-5xl font-bold text-white leading-tight">
-              Tu Compañera de Terapia Digital 24/7
+              Terapia Digital Instantánea 24/7. Tu Soporte Psicológico por WhatsApp
             </h1>
             <p className="mt-6 text-lg text-purple-100">
-              Accede a soporte psicológico instantáneo a través de WhatsApp. TerapeutAI combina la última tecnología en IA con principios terapéuticos probados para estar siempre a tu lado.
+              Descubre TerapeutAI, la revolución en terapia digital. Accede a ayuda psicológica inmediata donde y cuando la necesites, con la confianza de una plataforma que une tecnología avanzada en inteligencia artificial (IA) y métodos terapéuticos comprobados. Siempre a tu lado, siempre accesible.
             </p>
             <div className="mt-8">
               <a href="#pricing" className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white font-medium rounded-lg hover:from-purple-600 hover:to-pink-600 transition-all duration-300 flex items-center justify-center gap-2">
